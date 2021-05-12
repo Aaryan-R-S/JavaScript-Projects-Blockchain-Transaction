@@ -54,7 +54,6 @@ Clone it and play around!
 
 ### Built With
 
-* [HTML](https://www.w3schools.com/html/)
 * [JavaScript](https://www.javascript.com/)
 * [Node.js](https://nodejs.org/en/)
 * [GitHub](https://github.com)

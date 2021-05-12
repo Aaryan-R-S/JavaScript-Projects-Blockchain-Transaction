@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://aaryan-r-s.github.io/JavaScript-Projects-Blockchain-Transaction">
+  <a href="#">
     <img src="readme-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
